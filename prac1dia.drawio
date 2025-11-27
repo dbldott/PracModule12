@@ -31,9 +31,6 @@
         <mxCell id="cHXO-TCdwlNc2jVsSSo--10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="выбирает&lt;div&gt;книгу&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="360" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="cHXO-TCdwlNc2jVsSSo--19" edge="1" parent="1" source="cHXO-TCdwlNc2jVsSSo--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="cHXO-TCdwlNc2jVsSSo--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cHXO-TCdwlNc2jVsSSo--56" edge="1" parent="1" source="cHXO-TCdwlNc2jVsSSo--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHXO-TCdwlNc2jVsSSo--10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
